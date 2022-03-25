@@ -5,7 +5,7 @@ File for Bank Marketing Project
 
 Repository for code related to a direct marketing campaigns to determine if the client contacted will subscribe to a term deposit.
 
-## This is R project
+## This is an R project
 
 ### Classification method 
      1 Decision tree
